@@ -1,6 +1,5 @@
 """
-Asignación: Test_3D
-@Author: Diana Laura Pérez Pérez
+@Author: Bryan Torres Loipez
 Fecha: 27/01/21
 """
 import matplotlib.pyplot as plt
